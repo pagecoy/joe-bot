@@ -1,0 +1,11 @@
+venv/
+piper/
+espeak-ng-data/
+pkgconfig/
+*.dll
+*.exe
+*.ort
+*.onnx
+*.onnx.json
+*.wav
+.vscode/
